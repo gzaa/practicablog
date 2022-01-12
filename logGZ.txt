@@ -1,0 +1,23 @@
+commit b58c8d8c116a2205aa221b9f384cabbe2a4c0be3
+Author: Gabriela Zambrano <gabrizambranoa@gmail.com>
+Date:   Wed Jan 12 13:34:10 2022 -0500
+
+    CAMBIOS PEGRILOSOS BIEN PEGRILOSOS
+
+commit b1d6364cc44dc905c7001e71e84d7afc60935271
+Author: Gabriela Zambrano <gabrizambranoa@gmail.com>
+Date:   Wed Jan 12 11:53:11 2022 -0500
+
+    Probar cambio de historia
+
+commit 6f08f82c0cfe7310b29f052449af5c06b8e13eef
+Author: Gabriela Zambrano <gabrizambranoa@gmail.com>
+Date:   Wed Jan 12 11:51:10 2022 -0500
+
+    PROYECTO REAL CON CSS
+
+commit 540284732bbce7399ce3f56e30857efd080e5fa4
+Author: Gabriela Zambrano <gabrizambranoa@gmail.com>
+Date:   Tue Jan 11 21:55:07 2022 -0500
+
+    NUEVO PROYECTO DE PLATZI
