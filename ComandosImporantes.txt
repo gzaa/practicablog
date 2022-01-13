@@ -15,3 +15,13 @@ git log --grep=“INVIE” –i- Busca los commits que cumplan sin importar may�
 git log – index.html- Busca los commits en un archivo en específico.
 git log -S “Por contenido”- Buscar los commits con el contenido dentro del archivo.
 git log > log.txt - guardar los logs en un archivo txt
+git remote set-url : Cambia la url del repositorio remoto
+git log --all --graph --decorate --oneline : Ver en gráfico
+
+alias nombre_alias = "COMANDO" : Crea un alias de lo que deseemos
+git push  origin  --tags : Enviar tags al repositorio remoto.
+git pull origin nombre_rama : trae cambios
+git tag : Ver todos los tags creados
+git tag -d NOMBRE_TAG : Lo borra localmente pero no en el repositorio remoto.
+git push origin :refs/tags/MALTAG : Borrar en el repositorio remoto
+git show-branch --all
